@@ -243,6 +243,8 @@ td.expense{
     opacity: 0;
     visibility: hidden;
 
+    z-index: 9;
+
 }
 
 .modal-overlay.active{
