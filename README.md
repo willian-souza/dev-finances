@@ -4,6 +4,9 @@
 
 <h1>
     <img src="assets/devfinance.gif">
+    <h3 align="center"> 
+        Access the application here 👉 <a href="https://willian-souza.github.io/dev-finances/" target="_blank">Dev.Finance$<a>
+    <h3>
 <h1>
 
 <h1 align = "center">
@@ -15,60 +18,49 @@
     </a>    
 <h1>
 
-# 📋 Índice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Conhecimentos adquiridos](#-conhecimentos-adquiridos)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
-- [Licença](#-licença)
+# 📋 Index
+- [About](#-about)
+- [Technologies used](#-technologies-used)
+- [Download and run the project ](#-download-and-run-the-project)
+- [License](#-license)
 
 ---
 
-# 📄 Sobre
+# 📄 About
 
-O projeto **DevFinance$** é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída.<br>
-Foi desenvolvido durante a **Maratona Discover** da **Rocketseat**.
-
+The **DevFinance$** project is a financial control application, where it is possible to register and delete transactions and see the incoming and outgoing balance. <br>
+It was developed during the **Rocketseat Discover Marathon**.
 
 --- 
 
-# 🖥 Tecnologias utilizadas
-
+# 🖥 Technologies used
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
 
-
 ---
 
-# ✍ Conhecimentos adquiridos
-- Utilização do LocalStorage para armazenamento dos dados
-- Utilização de expressões regulares
+# 📦 Download and run the project
 
----
-
-# 📦 Como baixar o projeto
-
-OBS: Para realizar os procedimentos abaixo é necessário ter o [Git](https://git-scm.com/downloads) instalado na máquina.
+Note: To perform the procedures below on your terminal it is necessary to have [Git](https://git-scm.com/downloads) installed on the your machine.
 
 ```bash
 
-    # Clonar o repositório
-    $ git clone https://github.com/willian-souza/devfinances
+    # Clone the repository
+    $ git clone https://github.com/willian-souza/dev-finances
 
-    # Entrar no diretório baixado
-    $ cd devfinances
+    # Enter the downloaded directory
+    $ cd dev-finances
 
-    # Executar a apliação
-    Basta abrir o arquivo index.html em qualquer navegador        
-     
+    # Run the application
+    Open the index.html file in any browser
 
 ```
 ---
 
-# 📝Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+# 📝 License
+This project is under license MIT. See the archive [LICENSE](/LICENSE) for more details.
 
 ---
 
-Desenvolvido por [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
+Developed by [Willian dos Santos Souza](https://www.linkedin.com/in/willian-ssouza/)
